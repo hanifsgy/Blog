@@ -1,0 +1,9 @@
+---
+title: Welcome
+date: 2019-05-14
+tags: opinion
+---
+
+
+Since Saroush Khanlou presented Coordinator, there are many differents ways to approach his method. Coordinator solve a common problem when plaguing iOS Developer follow MVC or MVVM architecture but the problem is `Controller` are taking on too many logic.
+
